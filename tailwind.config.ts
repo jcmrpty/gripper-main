@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss"
-import defaultConfig from "shadcn/ui/tailwind.config"
+import defaultConfig from "tailwindcss/defaultConfig"git add .
 
 const config = {
   ...defaultConfig,
